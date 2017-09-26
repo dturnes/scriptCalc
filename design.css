@@ -1,0 +1,87 @@
+/*
+
+	Programmer : Adi Zejnilovic
+        Date       : 09 19 2017
+        Description: this will cmpliment mycalculator.html
+*/
+#calculator
+{
+    width: 250px;
+    height: 350px;
+    border: 5px solid black;
+    background: lightblue;
+    margin: 150px auto;
+    box-shadow: 0px 0px 100px gray;
+    text-align: center;
+}
+
+#display
+{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 220px;
+    height: 30px;
+    border: 1px solid red;
+    text-align: right; 
+
+    /* add additional attributes as you see fit */   
+}
+
+#keys
+{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    width: 41px;
+    height: 35px;
+    cursor:pointer;
+}
+
+
+#keys:hover
+{
+   background:yellow;
+   font-weight:bold;
+}
+
+
+#equal
+{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    width: 90px;
+    height: 35px;
+    cursor:pointer;
+}
+
+
+#equal:hover
+{
+   background:yellow;
+   font-weight:bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
